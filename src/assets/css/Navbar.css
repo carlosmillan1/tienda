@@ -1,0 +1,16 @@
+#navbar {
+
+    background-color: #0000004c; /* Cambia el color de fondo del navbar */
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: aliceblue;
+}
+
+#total {
+   
+    color: rgb(234, 230, 230); /* Cambia el color del texto del total si lo prefieres */
+}

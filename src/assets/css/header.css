@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+padding: 0%;
+}
+#fotofondo{
+    background-image: url('../img/pizza.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(10, 0, 0, 0.5); 
+    background-blend-mode: overlay;
+    min-height: 180px;
+    width: 99vw;
+
+}
+.titulo{
+text-align: center;
+color: aliceblue;
+padding: 1rem;
+}
+.titulo2{
+    text-align: center;
+    color: aliceblue;
+    }
+    body, html {
+        margin: 0;
+        padding: 0;
+        
+    }
+   
